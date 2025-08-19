@@ -1,2 +1,0 @@
-# javalearn
-About Java
